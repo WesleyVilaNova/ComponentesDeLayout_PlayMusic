@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/PlayMusic/app/src/main/res/drawable/bg_app.xml" value="0.2046875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PlayMusic/app/src/main/res/drawable/bg_duracao.xml" value="0.2046875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PlayMusic/app/src/main/res/drawable/bg_follow.xml" value="0.2046875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PlayMusic/app/src/main/res/drawable/bg_round.xml" value="0.2046875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PlayMusic/app/src/main/res/drawable/ic_avancar.xml" value="0.2046875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PlayMusic/app/src/main/res/drawable/ic_favorite.xml" value="0.2046875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PlayMusic/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2046875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PlayMusic/app/src/main/res/drawable/ic_lista.xml" value="0.2046875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PlayMusic/app/src/main/res/drawable/ic_more.xml" value="0.2046875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PlayMusic/app/src/main/res/drawable/ic_reload.xml" value="0.2046875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PlayMusic/app/src/main/res/drawable/ic_stop.xml" value="0.2046875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PlayMusic/app/src/main/res/drawable/ic_user.xml" value="0.2046875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PlayMusic/app/src/main/res/drawable/ic_voltar.xml" value="0.2046875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PlayMusic/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PlayMusic/app/src/main/res/layout/item_music.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PlayMusic/app/src/main/res/layout/toolbar.xml" value="0.18854166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
